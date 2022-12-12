@@ -1,0 +1,20 @@
+# Build outputs
+a.out
+a.exe
+a.jar
+a.exp
+a.lib
+a.pdb
+test.class
+*.gch
+
+# I/O test cases
+a.txt
+input.txt
+output.txt
+test.in
+test.out
+
+# Python
+__pycache__
+venv
